@@ -1,0 +1,1802 @@
+[
+  {
+    "model": "exams.examresult",
+    "pk": 1,
+    "fields": {
+      "student_name": "Tina_1",
+      "course": "Computer Science",
+      "score": 17.8
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 2,
+    "fields": {
+      "student_name": "Grace_2",
+      "course": "Mathematics",
+      "score": 14.1
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 3,
+    "fields": {
+      "student_name": "Iris_3",
+      "course": "Computer Science",
+      "score": 7.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 4,
+    "fields": {
+      "student_name": "Nora_4",
+      "course": "Statistics",
+      "score": 18.3
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 5,
+    "fields": {
+      "student_name": "Bob_5",
+      "course": "Physics",
+      "score": 7.2
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 6,
+    "fields": {
+      "student_name": "Wes_6",
+      "course": "Algebra",
+      "score": 9.6
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 7,
+    "fields": {
+      "student_name": "Quentin_7",
+      "course": "Algebra",
+      "score": 13.6
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 8,
+    "fields": {
+      "student_name": "Hugo_8",
+      "course": "Calculus",
+      "score": 19.1
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 9,
+    "fields": {
+      "student_name": "Vera_9",
+      "course": "Calculus",
+      "score": 9.2
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 10,
+    "fields": {
+      "student_name": "Wes_10",
+      "course": "Computer Science",
+      "score": 17.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 11,
+    "fields": {
+      "student_name": "David_11",
+      "course": "Mathematics",
+      "score": 11.5
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 12,
+    "fields": {
+      "student_name": "Oscar_12",
+      "course": "Computer Science",
+      "score": 13.1
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 13,
+    "fields": {
+      "student_name": "Alice_13",
+      "course": "Calculus",
+      "score": 19.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 14,
+    "fields": {
+      "student_name": "Nora_14",
+      "course": "Statistics",
+      "score": 10.6
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 15,
+    "fields": {
+      "student_name": "Vera_15",
+      "course": "Algebra",
+      "score": 19.8
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 16,
+    "fields": {
+      "student_name": "Alice_16",
+      "course": "Statistics",
+      "score": 18.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 17,
+    "fields": {
+      "student_name": "Maya_17",
+      "course": "Statistics",
+      "score": 5.7
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 18,
+    "fields": {
+      "student_name": "Wes_18",
+      "course": "Algebra",
+      "score": 18.1
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 19,
+    "fields": {
+      "student_name": "Rita_19",
+      "course": "Mathematics",
+      "score": 7.8
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 20,
+    "fields": {
+      "student_name": "Grace_20",
+      "course": "Computer Science",
+      "score": 19.1
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 21,
+    "fields": {
+      "student_name": "Iris_21",
+      "course": "Mathematics",
+      "score": 14.8
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 22,
+    "fields": {
+      "student_name": "Emma_22",
+      "course": "Mathematics",
+      "score": 9.7
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 23,
+    "fields": {
+      "student_name": "Oscar_23",
+      "course": "Physics",
+      "score": 18.4
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 24,
+    "fields": {
+      "student_name": "Felix_24",
+      "course": "Calculus",
+      "score": 19.6
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 25,
+    "fields": {
+      "student_name": "Vera_25",
+      "course": "Mathematics",
+      "score": 7.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 26,
+    "fields": {
+      "student_name": "Leo_26",
+      "course": "Mathematics",
+      "score": 5.3
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 27,
+    "fields": {
+      "student_name": "Paula_27",
+      "course": "Computer Science",
+      "score": 4.3
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 28,
+    "fields": {
+      "student_name": "Sam_28",
+      "course": "Statistics",
+      "score": 4.2
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 29,
+    "fields": {
+      "student_name": "Tina_29",
+      "course": "Computer Science",
+      "score": 19.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 30,
+    "fields": {
+      "student_name": "Chloe_30",
+      "course": "Algebra",
+      "score": 5.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 31,
+    "fields": {
+      "student_name": "Alice_31",
+      "course": "Statistics",
+      "score": 10.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 32,
+    "fields": {
+      "student_name": "Alice_32",
+      "course": "Statistics",
+      "score": 19.5
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 33,
+    "fields": {
+      "student_name": "Chloe_33",
+      "course": "Computer Science",
+      "score": 8.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 34,
+    "fields": {
+      "student_name": "Xavier_34",
+      "course": "Computer Science",
+      "score": 12.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 35,
+    "fields": {
+      "student_name": "Nora_35",
+      "course": "Computer Science",
+      "score": 9.8
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 36,
+    "fields": {
+      "student_name": "Quentin_36",
+      "course": "Statistics",
+      "score": 4.2
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 37,
+    "fields": {
+      "student_name": "Jonas_37",
+      "course": "Statistics",
+      "score": 7.8
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 38,
+    "fields": {
+      "student_name": "Alice_38",
+      "course": "Algebra",
+      "score": 14.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 39,
+    "fields": {
+      "student_name": "Chloe_39",
+      "course": "Calculus",
+      "score": 13.1
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 40,
+    "fields": {
+      "student_name": "Felix_40",
+      "course": "Physics",
+      "score": 9.1
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 41,
+    "fields": {
+      "student_name": "Felix_41",
+      "course": "Computer Science",
+      "score": 19.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 42,
+    "fields": {
+      "student_name": "Tina_42",
+      "course": "Calculus",
+      "score": 8.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 43,
+    "fields": {
+      "student_name": "Paula_43",
+      "course": "Mathematics",
+      "score": 13.2
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 44,
+    "fields": {
+      "student_name": "Yara_44",
+      "course": "Mathematics",
+      "score": 17.3
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 45,
+    "fields": {
+      "student_name": "Yara_45",
+      "course": "Algebra",
+      "score": 4.8
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 46,
+    "fields": {
+      "student_name": "Zoe_46",
+      "course": "Statistics",
+      "score": 17.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 47,
+    "fields": {
+      "student_name": "Xavier_47",
+      "course": "Calculus",
+      "score": 11.7
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 48,
+    "fields": {
+      "student_name": "Alice_48",
+      "course": "Calculus",
+      "score": 6.1
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 49,
+    "fields": {
+      "student_name": "Bob_49",
+      "course": "Physics",
+      "score": 19.3
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 50,
+    "fields": {
+      "student_name": "Felix_50",
+      "course": "Mathematics",
+      "score": 19.6
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 51,
+    "fields": {
+      "student_name": "Oscar_51",
+      "course": "Physics",
+      "score": 10.3
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 52,
+    "fields": {
+      "student_name": "Xavier_52",
+      "course": "Calculus",
+      "score": 10.7
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 53,
+    "fields": {
+      "student_name": "Alice_53",
+      "course": "Calculus",
+      "score": 18.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 54,
+    "fields": {
+      "student_name": "Maya_54",
+      "course": "Mathematics",
+      "score": 19.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 55,
+    "fields": {
+      "student_name": "Ugo_55",
+      "course": "Statistics",
+      "score": 14.6
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 56,
+    "fields": {
+      "student_name": "Quentin_56",
+      "course": "Algebra",
+      "score": 11.3
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 57,
+    "fields": {
+      "student_name": "Bob_57",
+      "course": "Computer Science",
+      "score": 16.4
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 58,
+    "fields": {
+      "student_name": "Grace_58",
+      "course": "Computer Science",
+      "score": 12.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 59,
+    "fields": {
+      "student_name": "Jonas_59",
+      "course": "Calculus",
+      "score": 8.3
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 60,
+    "fields": {
+      "student_name": "Grace_60",
+      "course": "Statistics",
+      "score": 12.8
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 61,
+    "fields": {
+      "student_name": "Rita_61",
+      "course": "Mathematics",
+      "score": 14.3
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 62,
+    "fields": {
+      "student_name": "Leo_62",
+      "course": "Computer Science",
+      "score": 5.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 63,
+    "fields": {
+      "student_name": "Maya_63",
+      "course": "Statistics",
+      "score": 18.8
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 64,
+    "fields": {
+      "student_name": "Jonas_64",
+      "course": "Calculus",
+      "score": 10.1
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 65,
+    "fields": {
+      "student_name": "Paula_65",
+      "course": "Calculus",
+      "score": 15.5
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 66,
+    "fields": {
+      "student_name": "Rita_66",
+      "course": "Calculus",
+      "score": 11.5
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 67,
+    "fields": {
+      "student_name": "Nora_67",
+      "course": "Statistics",
+      "score": 6.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 68,
+    "fields": {
+      "student_name": "Emma_68",
+      "course": "Mathematics",
+      "score": 19.6
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 69,
+    "fields": {
+      "student_name": "Quentin_69",
+      "course": "Algebra",
+      "score": 12.4
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 70,
+    "fields": {
+      "student_name": "Nora_70",
+      "course": "Statistics",
+      "score": 16.8
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 71,
+    "fields": {
+      "student_name": "Tina_71",
+      "course": "Mathematics",
+      "score": 15.8
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 72,
+    "fields": {
+      "student_name": "Tina_72",
+      "course": "Calculus",
+      "score": 14.7
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 73,
+    "fields": {
+      "student_name": "Oscar_73",
+      "course": "Physics",
+      "score": 14.1
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 74,
+    "fields": {
+      "student_name": "Rita_74",
+      "course": "Physics",
+      "score": 7.2
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 75,
+    "fields": {
+      "student_name": "Oscar_75",
+      "course": "Physics",
+      "score": 19.7
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 76,
+    "fields": {
+      "student_name": "Hugo_76",
+      "course": "Mathematics",
+      "score": 14.3
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 77,
+    "fields": {
+      "student_name": "Quentin_77",
+      "course": "Calculus",
+      "score": 18.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 78,
+    "fields": {
+      "student_name": "Zoe_78",
+      "course": "Computer Science",
+      "score": 9.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 79,
+    "fields": {
+      "student_name": "Chloe_79",
+      "course": "Computer Science",
+      "score": 11.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 80,
+    "fields": {
+      "student_name": "Yara_80",
+      "course": "Statistics",
+      "score": 5.2
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 81,
+    "fields": {
+      "student_name": "Zoe_81",
+      "course": "Physics",
+      "score": 16.7
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 82,
+    "fields": {
+      "student_name": "Zoe_82",
+      "course": "Physics",
+      "score": 5.3
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 83,
+    "fields": {
+      "student_name": "Maya_83",
+      "course": "Computer Science",
+      "score": 4.8
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 84,
+    "fields": {
+      "student_name": "Hugo_84",
+      "course": "Algebra",
+      "score": 8.2
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 85,
+    "fields": {
+      "student_name": "Grace_85",
+      "course": "Calculus",
+      "score": 5.8
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 86,
+    "fields": {
+      "student_name": "Jonas_86",
+      "course": "Physics",
+      "score": 15.2
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 87,
+    "fields": {
+      "student_name": "Zoe_87",
+      "course": "Algebra",
+      "score": 20.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 88,
+    "fields": {
+      "student_name": "David_88",
+      "course": "Physics",
+      "score": 4.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 89,
+    "fields": {
+      "student_name": "Leo_89",
+      "course": "Algebra",
+      "score": 5.1
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 90,
+    "fields": {
+      "student_name": "Wes_90",
+      "course": "Physics",
+      "score": 13.1
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 91,
+    "fields": {
+      "student_name": "Ugo_91",
+      "course": "Computer Science",
+      "score": 13.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 92,
+    "fields": {
+      "student_name": "Rita_92",
+      "course": "Mathematics",
+      "score": 13.1
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 93,
+    "fields": {
+      "student_name": "Rita_93",
+      "course": "Computer Science",
+      "score": 5.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 94,
+    "fields": {
+      "student_name": "Emma_94",
+      "course": "Calculus",
+      "score": 12.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 95,
+    "fields": {
+      "student_name": "Xavier_95",
+      "course": "Algebra",
+      "score": 9.4
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 96,
+    "fields": {
+      "student_name": "Rita_96",
+      "course": "Calculus",
+      "score": 11.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 97,
+    "fields": {
+      "student_name": "Paula_97",
+      "course": "Computer Science",
+      "score": 15.8
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 98,
+    "fields": {
+      "student_name": "Alice_98",
+      "course": "Statistics",
+      "score": 16.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 99,
+    "fields": {
+      "student_name": "Iris_99",
+      "course": "Physics",
+      "score": 13.1
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 100,
+    "fields": {
+      "student_name": "Xavier_100",
+      "course": "Mathematics",
+      "score": 8.2
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 101,
+    "fields": {
+      "student_name": "Maya_101",
+      "course": "Algebra",
+      "score": 17.7
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 102,
+    "fields": {
+      "student_name": "Sam_102",
+      "course": "Computer Science",
+      "score": 17.1
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 103,
+    "fields": {
+      "student_name": "Iris_103",
+      "course": "Computer Science",
+      "score": 4.2
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 104,
+    "fields": {
+      "student_name": "Emma_104",
+      "course": "Calculus",
+      "score": 18.5
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 105,
+    "fields": {
+      "student_name": "Bob_105",
+      "course": "Calculus",
+      "score": 6.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 106,
+    "fields": {
+      "student_name": "Bob_106",
+      "course": "Physics",
+      "score": 6.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 107,
+    "fields": {
+      "student_name": "Wes_107",
+      "course": "Computer Science",
+      "score": 15.6
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 108,
+    "fields": {
+      "student_name": "Yara_108",
+      "course": "Physics",
+      "score": 9.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 109,
+    "fields": {
+      "student_name": "Grace_109",
+      "course": "Physics",
+      "score": 13.2
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 110,
+    "fields": {
+      "student_name": "Alice_110",
+      "course": "Algebra",
+      "score": 6.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 111,
+    "fields": {
+      "student_name": "Chloe_111",
+      "course": "Computer Science",
+      "score": 19.4
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 112,
+    "fields": {
+      "student_name": "Paula_112",
+      "course": "Calculus",
+      "score": 10.4
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 113,
+    "fields": {
+      "student_name": "Sam_113",
+      "course": "Statistics",
+      "score": 12.2
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 114,
+    "fields": {
+      "student_name": "Chloe_114",
+      "course": "Statistics",
+      "score": 7.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 115,
+    "fields": {
+      "student_name": "Alice_115",
+      "course": "Calculus",
+      "score": 6.7
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 116,
+    "fields": {
+      "student_name": "Paula_116",
+      "course": "Statistics",
+      "score": 9.1
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 117,
+    "fields": {
+      "student_name": "Alice_117",
+      "course": "Computer Science",
+      "score": 17.7
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 118,
+    "fields": {
+      "student_name": "Hugo_118",
+      "course": "Statistics",
+      "score": 5.7
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 119,
+    "fields": {
+      "student_name": "Tina_119",
+      "course": "Algebra",
+      "score": 7.4
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 120,
+    "fields": {
+      "student_name": "Vera_120",
+      "course": "Physics",
+      "score": 4.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 121,
+    "fields": {
+      "student_name": "Wes_121",
+      "course": "Statistics",
+      "score": 9.2
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 122,
+    "fields": {
+      "student_name": "Grace_122",
+      "course": "Statistics",
+      "score": 5.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 123,
+    "fields": {
+      "student_name": "Emma_123",
+      "course": "Computer Science",
+      "score": 16.4
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 124,
+    "fields": {
+      "student_name": "Maya_124",
+      "course": "Algebra",
+      "score": 10.7
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 125,
+    "fields": {
+      "student_name": "Grace_125",
+      "course": "Statistics",
+      "score": 15.5
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 126,
+    "fields": {
+      "student_name": "Nora_126",
+      "course": "Statistics",
+      "score": 15.8
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 127,
+    "fields": {
+      "student_name": "Hugo_127",
+      "course": "Algebra",
+      "score": 4.5
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 128,
+    "fields": {
+      "student_name": "Hugo_128",
+      "course": "Statistics",
+      "score": 10.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 129,
+    "fields": {
+      "student_name": "Jonas_129",
+      "course": "Physics",
+      "score": 12.6
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 130,
+    "fields": {
+      "student_name": "Katia_130",
+      "course": "Statistics",
+      "score": 6.5
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 131,
+    "fields": {
+      "student_name": "Paula_131",
+      "course": "Mathematics",
+      "score": 10.4
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 132,
+    "fields": {
+      "student_name": "Jonas_132",
+      "course": "Statistics",
+      "score": 6.8
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 133,
+    "fields": {
+      "student_name": "Alice_133",
+      "course": "Physics",
+      "score": 4.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 134,
+    "fields": {
+      "student_name": "Nora_134",
+      "course": "Algebra",
+      "score": 12.3
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 135,
+    "fields": {
+      "student_name": "Katia_135",
+      "course": "Statistics",
+      "score": 6.5
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 136,
+    "fields": {
+      "student_name": "Emma_136",
+      "course": "Algebra",
+      "score": 15.6
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 137,
+    "fields": {
+      "student_name": "Katia_137",
+      "course": "Calculus",
+      "score": 4.7
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 138,
+    "fields": {
+      "student_name": "Chloe_138",
+      "course": "Physics",
+      "score": 17.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 139,
+    "fields": {
+      "student_name": "Nora_139",
+      "course": "Computer Science",
+      "score": 4.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 140,
+    "fields": {
+      "student_name": "Wes_140",
+      "course": "Statistics",
+      "score": 12.2
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 141,
+    "fields": {
+      "student_name": "Rita_141",
+      "course": "Statistics",
+      "score": 9.6
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 142,
+    "fields": {
+      "student_name": "Wes_142",
+      "course": "Algebra",
+      "score": 7.7
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 143,
+    "fields": {
+      "student_name": "Alice_143",
+      "course": "Calculus",
+      "score": 12.2
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 144,
+    "fields": {
+      "student_name": "Bob_144",
+      "course": "Physics",
+      "score": 13.8
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 145,
+    "fields": {
+      "student_name": "Felix_145",
+      "course": "Statistics",
+      "score": 17.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 146,
+    "fields": {
+      "student_name": "Zoe_146",
+      "course": "Mathematics",
+      "score": 7.5
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 147,
+    "fields": {
+      "student_name": "Bob_147",
+      "course": "Calculus",
+      "score": 18.6
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 148,
+    "fields": {
+      "student_name": "Zoe_148",
+      "course": "Statistics",
+      "score": 12.4
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 149,
+    "fields": {
+      "student_name": "Chloe_149",
+      "course": "Mathematics",
+      "score": 12.5
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 150,
+    "fields": {
+      "student_name": "David_150",
+      "course": "Physics",
+      "score": 6.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 151,
+    "fields": {
+      "student_name": "Grace_151",
+      "course": "Physics",
+      "score": 18.2
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 152,
+    "fields": {
+      "student_name": "Yara_152",
+      "course": "Algebra",
+      "score": 6.7
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 153,
+    "fields": {
+      "student_name": "Hugo_153",
+      "course": "Mathematics",
+      "score": 4.5
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 154,
+    "fields": {
+      "student_name": "Yara_154",
+      "course": "Physics",
+      "score": 7.2
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 155,
+    "fields": {
+      "student_name": "Paula_155",
+      "course": "Calculus",
+      "score": 10.3
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 156,
+    "fields": {
+      "student_name": "Hugo_156",
+      "course": "Physics",
+      "score": 13.4
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 157,
+    "fields": {
+      "student_name": "Rita_157",
+      "course": "Physics",
+      "score": 6.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 158,
+    "fields": {
+      "student_name": "Maya_158",
+      "course": "Calculus",
+      "score": 19.6
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 159,
+    "fields": {
+      "student_name": "Sam_159",
+      "course": "Computer Science",
+      "score": 8.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 160,
+    "fields": {
+      "student_name": "Wes_160",
+      "course": "Calculus",
+      "score": 5.6
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 161,
+    "fields": {
+      "student_name": "Tina_161",
+      "course": "Physics",
+      "score": 5.7
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 162,
+    "fields": {
+      "student_name": "Sam_162",
+      "course": "Mathematics",
+      "score": 4.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 163,
+    "fields": {
+      "student_name": "Quentin_163",
+      "course": "Physics",
+      "score": 14.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 164,
+    "fields": {
+      "student_name": "Iris_164",
+      "course": "Computer Science",
+      "score": 14.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 165,
+    "fields": {
+      "student_name": "Oscar_165",
+      "course": "Calculus",
+      "score": 8.2
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 166,
+    "fields": {
+      "student_name": "Ugo_166",
+      "course": "Mathematics",
+      "score": 7.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 167,
+    "fields": {
+      "student_name": "Maya_167",
+      "course": "Calculus",
+      "score": 8.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 168,
+    "fields": {
+      "student_name": "Xavier_168",
+      "course": "Mathematics",
+      "score": 12.9
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 169,
+    "fields": {
+      "student_name": "Jonas_169",
+      "course": "Statistics",
+      "score": 8.2
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 170,
+    "fields": {
+      "student_name": "Paula_170",
+      "course": "Statistics",
+      "score": 8.4
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 171,
+    "fields": {
+      "student_name": "Sam_171",
+      "course": "Computer Science",
+      "score": 15.2
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 172,
+    "fields": {
+      "student_name": "Emma_172",
+      "course": "Physics",
+      "score": 6.6
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 173,
+    "fields": {
+      "student_name": "Katia_173",
+      "course": "Statistics",
+      "score": 19.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 174,
+    "fields": {
+      "student_name": "Yara_174",
+      "course": "Statistics",
+      "score": 18.7
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 175,
+    "fields": {
+      "student_name": "Ugo_175",
+      "course": "Physics",
+      "score": 11.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 176,
+    "fields": {
+      "student_name": "Leo_176",
+      "course": "Statistics",
+      "score": 11.1
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 177,
+    "fields": {
+      "student_name": "Yara_177",
+      "course": "Statistics",
+      "score": 19.5
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 178,
+    "fields": {
+      "student_name": "Ugo_178",
+      "course": "Algebra",
+      "score": 19.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 179,
+    "fields": {
+      "student_name": "Oscar_179",
+      "course": "Statistics",
+      "score": 6.2
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 180,
+    "fields": {
+      "student_name": "Maya_180",
+      "course": "Computer Science",
+      "score": 13.5
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 181,
+    "fields": {
+      "student_name": "Leo_181",
+      "course": "Computer Science",
+      "score": 8.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 182,
+    "fields": {
+      "student_name": "Zoe_182",
+      "course": "Physics",
+      "score": 14.5
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 183,
+    "fields": {
+      "student_name": "Quentin_183",
+      "course": "Calculus",
+      "score": 4.4
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 184,
+    "fields": {
+      "student_name": "Oscar_184",
+      "course": "Physics",
+      "score": 9.8
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 185,
+    "fields": {
+      "student_name": "Katia_185",
+      "course": "Mathematics",
+      "score": 7.3
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 186,
+    "fields": {
+      "student_name": "Katia_186",
+      "course": "Calculus",
+      "score": 9.1
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 187,
+    "fields": {
+      "student_name": "Hugo_187",
+      "course": "Mathematics",
+      "score": 12.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 188,
+    "fields": {
+      "student_name": "Sam_188",
+      "course": "Computer Science",
+      "score": 4.8
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 189,
+    "fields": {
+      "student_name": "Zoe_189",
+      "course": "Algebra",
+      "score": 6.4
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 190,
+    "fields": {
+      "student_name": "Zoe_190",
+      "course": "Calculus",
+      "score": 15.8
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 191,
+    "fields": {
+      "student_name": "Grace_191",
+      "course": "Calculus",
+      "score": 10.4
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 192,
+    "fields": {
+      "student_name": "Quentin_192",
+      "course": "Mathematics",
+      "score": 9.3
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 193,
+    "fields": {
+      "student_name": "Jonas_193",
+      "course": "Computer Science",
+      "score": 11.1
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 194,
+    "fields": {
+      "student_name": "Zoe_194",
+      "course": "Computer Science",
+      "score": 17.5
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 195,
+    "fields": {
+      "student_name": "Tina_195",
+      "course": "Statistics",
+      "score": 17.7
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 196,
+    "fields": {
+      "student_name": "Ugo_196",
+      "course": "Statistics",
+      "score": 8.8
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 197,
+    "fields": {
+      "student_name": "Sam_197",
+      "course": "Computer Science",
+      "score": 11.5
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 198,
+    "fields": {
+      "student_name": "Wes_198",
+      "course": "Physics",
+      "score": 14.6
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 199,
+    "fields": {
+      "student_name": "Maya_199",
+      "course": "Computer Science",
+      "score": 16.0
+    }
+  },
+  {
+    "model": "exams.examresult",
+    "pk": 200,
+    "fields": {
+      "student_name": "Emma_200",
+      "course": "Algebra",
+      "score": 9.1
+    }
+  }
+]
