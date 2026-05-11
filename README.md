@@ -6,14 +6,35 @@ This repository contains a small Django project used to manage exam results.
 
 Your task is to complete the project so that it exposes a simple API endpoint returning the students who passed an exam.
 
-If something is unclear or incomplete, feel free to make reasonable assumptions and explain them.
+If something is unclear or incomplete, feel free to make reasonable assumptions and document them briefly.
+
+We are also interested in how you handle ambiguity and technical trade-offs.
+
 
 **Please fork this repository and submit your solution by sharing the link to your fork.**
 
-## Expected time
+# Expected time
 
-About **1 hour**.
-The goal is not to build something perfect, but to show how you work.
+About **1–2 hours**.
+
+Please do not spend more than approximately **3 hours** on this exercise.
+
+The goal is not to build something perfect or production-ready, but to show how you work:
+
+* your reasoning,
+* code clarity,
+* pragmatic decisions,
+* and ability to communicate assumptions and trade-offs.
+
+Clean and maintainable code is preferred over unnecessary complexity.
+
+# Use of AI tools
+
+You may use AI tools (ChatGPT, Copilot, Claude, etc.) if you wish.
+
+However, you should fully understand and be able to explain any code you submit.
+
+
 
 The repository already contains sample data (about 200 records) to help you test your endpoint.
 
@@ -135,7 +156,7 @@ docker compose up --build
 
 **Please fork this repository and submit your solution by sharing the link to your fork.**
 
-If possible, use meaningful commit messages to explain your changes.
+Small and meaningful commits are appreciated.
 
 Feel free to explain your choices in the Pull Request description.
 
