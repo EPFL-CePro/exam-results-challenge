@@ -1,0 +1,15 @@
+# Base docker-compose file, with shared configuration between all environments. This is done to keep the configuration DRY.
+
+services:
+  web:
+    build:
+      context: .
+    ports:
+      - "8000:8000"
+
+    volumes:
+      - data:/app/data
+
+volumes:
+  # both dev and prod environments require a volume to store the SQLite db
+  data: {}

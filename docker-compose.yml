@@ -1,5 +1,15 @@
 services:
   web:
-    build: .
-    ports:
-      - "8000:8000"
+    # uses the shared configuration between dev and prod environments
+    extends:
+      file: docker-compose.base.yaml
+      service: web
+    build:
+      # uses the development Dockerfile, with the Django development server that supports hot reloading
+      target: dev
+    volumes:
+      - .:/app # the entire project is mounted in the container to allow for hot reloading
+
+volumes:
+  # both dev and prod environments require a volume to store the SQLite db
+  data: {}

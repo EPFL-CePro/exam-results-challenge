@@ -1,0 +1,13 @@
+services:
+  web:
+    # uses the shared configuration between dev and prod environments
+    extends:
+      file: docker-compose.base.yaml
+      service: web
+    build:
+      # uses the production Dockerfile (uvicorn production server, no hot reload)
+      target: prod
+
+volumes:
+  # both dev and prod environments require a volume to store the SQLite db
+  data: {}
