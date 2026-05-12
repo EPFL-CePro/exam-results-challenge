@@ -17,6 +17,9 @@ This repository contains a small Django project used to manage exam results.
   - `docker-compose.prod.yaml` is the production environment (no test dependencies, runs the production uvicorn server).
 - **Persisted the SQLite database in a Docker volume**
    - Ensures database state is preserved between container restarts and rebuilds.
+- **Added GitHub Actions workflow for automatic testing, image building, and deployment to GitHub Packages.**
+  - Automate test execution on each commit or pull request.
+  - Ensure consistency and prevent regressions.
 - **Replaced requirements.txt with pyproject.toml.**
   - Enables separation of development, testing, and production dependencies.
   - Produces a cleaner and more maintainable dependency structure.
@@ -28,9 +31,6 @@ This repository contains a small Django project used to manage exam results.
   - Would remove manual serialization logic from views.
   - Provides built-in validation, serializers, and standardized response handling.
   - Would eliminate the need for `safe=False` in `JsonResponse` by design (currently used by [exam/views.py](exams/views.py)).
-- **Add automatic CI/CD testing using GitHub Actions / Gitlab CI/CD.** 
-  - Automate test execution on each commit or pull request.
-  - Ensure consistency and prevent regressions.
 - **Improve architecture separation.**
   - Extract business logic (filtering/querying) into a service layer.
   - Keeps views thin and improves testability.
