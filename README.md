@@ -11,7 +11,10 @@ If something is unclear or incomplete, feel free to make reasonable assumptions 
 We are also interested in how you handle ambiguity and technical trade-offs.
 
 
-**Please fork this repository and submit your solution by sharing the link to your fork.**
+**Please create a private copy of this repository and work on your solution there.**
+
+Once completed, please share access to your private repository directly with us.
+Do not open a public Pull Request against this repository.
 
 # Expected time
 
@@ -154,11 +157,20 @@ docker compose up --build
 
 # Submission
 
-**Please fork this repository and submit your solution by sharing the link to your fork.**
+Please follow these steps:
+
+1. Create a private copy of this repository
+2. Complete the exercise in your private repository
+3. Share access to the repository directly with us once finished
+
+Please do not open a public Pull Request against this repository.
 
 Small and meaningful commits are appreciated.
 
-Feel free to explain your choices in the Pull Request description.
+You may include a short README section explaining:
+- your assumptions,
+- trade-offs,
+- and possible improvements.
 
 ---
 
@@ -175,6 +187,7 @@ A short paragraph or bullet list is enough.
 - Keep things simple.
 - Clean and readable code is preferred over unnecessary complexity.
 - If something is incomplete, explain what you would do next.
+- Please keep your solution private to avoid exposing it to other candidates.
 
 ---
 
