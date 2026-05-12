@@ -1,5 +1,9 @@
 name: Test and deploy
 
+env:
+  PYTHON_VERSION: "3.11"
+  IMAGE_NAME: "ghcr.io/${{ github.repository }}-web:latest"
+
 # only run on push to main, or manually
 on:
   push:
@@ -14,19 +18,15 @@ permissions:
 jobs:
   test:
     runs-on: ubuntu-latest
-    strategy:
-      max-parallel: 4
-      matrix:
-        python-version: [3.11]
 
     steps:
     - name: Checkout code
       uses: actions/checkout@v6
 
-    - name: Set up Python ${{ matrix.python-version }}
+    - name: Set up Python
       uses: actions/setup-python@v6
       with:
-        python-version: ${{ matrix.python-version }}
+        python-version: ${{ env.PYTHON_VERSION }}
 
     - name: Install Dependencies
       run: |
@@ -54,12 +54,12 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Build and push Docker image
+      - name: Build and push Docker image to GitHub Container Registry
         uses: docker/build-push-action@v7
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ github.repository }}-web:latest # pushes to GitHub Container Registry
+          tags: ${{ env.IMAGE_NAME }}
           cache-from: type=gha # uses the cache generated during previous runs to speed up the build
           cache-to: type=gha,mode=max # saves the cache to GitHub
 
