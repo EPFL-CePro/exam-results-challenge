@@ -20,6 +20,7 @@ This repository contains a small Django project used to manage exam results.
 - **Added GitHub Actions workflow for automatic testing, image building, and deployment to GitHub Packages.**
   - Automate test execution on each commit or pull request.
   - Ensure consistency and prevent regressions.
+  - Further improvement would be to properly tag the images with the app version and push them to a registry only if the version is not present already.
 - **Replaced requirements.txt with pyproject.toml.**
   - Enables separation of development, testing, and production dependencies.
   - Produces a cleaner and more maintainable dependency structure.
