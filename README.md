@@ -2,6 +2,40 @@
 
 This repository contains a small Django project used to manage exam results.
 
+## a-zurcher changes / suggestions
+
+### Changes
+
+- **Finished implementing the endpoint to retrieve all results.**
+  - By default, look for results with a score greater than or equal to 10.
+  - If specified by the optional query parameter `min_score`, filter for another value.
+  - Added an optional query parameter to filter results by a minimum score.
+  - Added automated test.
+- **Split the Docker configuration into a dev and a prod configuration.**
+  - `docker-compose.base.yaml` defines the shared base configuration.
+  - `docker-compose.yaml` is the development environment (contains test dependencies and runs the built-in Django dev server).
+  - `docker-compose.prod.yaml` is the production environment (no test dependencies, runs the production uvicorn server).
+- **Persisted the SQLite database in a Docker volume**
+   - Ensures database state is preserved between container restarts and rebuilds.
+- **Added GitHub Actions workflow for automatic testing, image building, and deployment to GitHub Packages.**
+  - Automate test execution on each commit or pull request.
+  - Ensure consistency and prevent regressions.
+  - Further improvement would be to properly tag the images with the app version and push them to a registry only if the version is not present already.
+- **Replaced requirements.txt with pyproject.toml.**
+  - Enables separation of development, testing, and production dependencies.
+  - Produces a cleaner and more maintainable dependency structure.
+  - Aligns the project with modern Python packaging standards.
+
+### Suggestions
+
+- **Implement an API-centric Django package such as DRF or Ninja.**
+  - Would remove manual serialization logic from views.
+  - Provides built-in validation, serializers, and standardized response handling.
+  - Would eliminate the need for `safe=False` in `JsonResponse` by design (currently used by [exam/views.py](exams/views.py)).
+- **Improve architecture separation.**
+  - Extract business logic (filtering/querying) into a service layer.
+  - Keeps views thin and improves testability.
+
 ## Goal
 
 Your task is to complete the project so that it exposes a simple API endpoint returning the students who passed an exam.

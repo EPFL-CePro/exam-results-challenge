@@ -1,0 +1,29 @@
+# I replaced the existing requirements.txt by this, mostly to cleanly separate the dev/test and prod dependencies,
+# but also to use the latest standard in the Python ecosystem.
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "exam-results-challenge"
+version = "0.1.0"
+description = "Django API for returning passed exam results."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "Django>=5.2,<5.3",
+]
+
+[project.optional-dependencies]
+prod = [
+    "uvicorn[standard]>=0.35.0",
+]
+
+dev = [
+    "pytest>=8.0",
+    "pytest-django>=4.8",
+]
+
+[tool.setuptools]
+packages = ["exam_project", "exams"]
